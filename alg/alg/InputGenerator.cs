@@ -1,21 +1,11 @@
 ﻿using System;
 using System.IO;
 
-/// <summary>
 /// Класс для генерации входных файлов с наборами случайных данных.
-/// </summary>
 public static class InputGenerator
 {
-    /// <summary>
     /// Генерирует заданное число файлов в папке "data",
-    /// каждый файл содержит в первой строке размер массива,
-    /// а во второй — случайные целые числа в указанном диапазоне.
-    /// </summary>
-    /// <param name="sets">Количество файлов.</param>
-    /// <param name="minSize">Минимальный размер массива.</param>
-    /// <param name="maxSize">Максимальный размер массива.</param>
-    /// <param name="minValue">Минимальное значение элемента.</param>
-    /// <param name="maxValue">Максимальное значение элемента.</param>
+
     public static void GenerateFiles(
         int sets = 100,
         int minSize = 100,
