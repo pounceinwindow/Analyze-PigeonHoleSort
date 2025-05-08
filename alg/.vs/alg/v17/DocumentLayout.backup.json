@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\pigeonholesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\pigeonholesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\InputGenerator.cs",
+              "RelativeDocumentMoniker": "alg\\InputGenerator.cs",
+              "ToolTip": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\InputGenerator.cs",
+              "RelativeToolTip": "alg\\InputGenerator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:08:47.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PigeonholeSort.cs",
+              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\PigeonholeSort.cs",
+              "RelativeDocumentMoniker": "alg\\PigeonholeSort.cs",
+              "ToolTip": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\PigeonholeSort.cs",
+              "RelativeToolTip": "alg\\PigeonholeSort.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:06:50.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\Program.cs",
+              "RelativeDocumentMoniker": "alg\\Program.cs",
+              "ToolTip": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\Program.cs",
+              "RelativeToolTip": "alg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:06:16.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
