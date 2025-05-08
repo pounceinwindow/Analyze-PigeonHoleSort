@@ -1,2 +1,2 @@
 # Analyze-PigeonHoleSort
-![Data](.\image\pigeonhole_charts.png)
+![Data](./images/pigeonhole_charts.png)
