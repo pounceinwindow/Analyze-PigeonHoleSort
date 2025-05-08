@@ -3,10 +3,9 @@ using System.IO;
 using System.Diagnostics;
 using System.Linq;
 
-/// <summary>
 /// Основной класс программы для генерации данных, чтения, сортировки
 /// Pigeonhole Sort и логирования результатов.
-/// </summary>
+
 class Program
 {
     static void Main()
@@ -17,7 +16,6 @@ class Program
         // Получаем список файлов
         string[] files = Directory.GetFiles("data", "input_*.txt");
 
-        // Открываем лог-файл для записи результатов
         using StreamWriter log = new StreamWriter("results.csv");
         log.WriteLine("Size,Time(ms),Iterations");
 
@@ -26,31 +24,27 @@ class Program
             int[] data = ReadData(file);
             int size = data.Length;
 
-            // Запускаем сортировку
             PigeonholeSort sorter = new PigeonholeSort();
             Stopwatch sw = Stopwatch.StartNew();
             sorter.Sort(data);
             sw.Stop();
 
-            // Записываем результаты
             log.WriteLine($"{size},{sw.Elapsed.TotalMilliseconds:F4},{sorter.Iterations}");
         }
 
         Console.WriteLine("Done. Results saved to results.csv.");
     }
 
-    /// <summary>
     /// Читает данные из файла формата:
     /// первая строка - размер массива,
     /// вторая строка - элементы через пробел.
-    /// </summary>
+
     static int[] ReadData(string path)
     {
         string[] lines = File.ReadAllLines(path);
         if (lines.Length < 2)
             throw new InvalidDataException($"File '{path}' does not contain expected two lines.");
 
-        // Вторая строка содержит числа
         string[] parts = lines[1]
             .Split(new[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries);
 
