@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adk03\\Downloads\\семестровка\\alg\\alg\\alg.csproj": {}
+    "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\alg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adk03\\Downloads\\семестровка\\alg\\alg\\alg.csproj": {
+    "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\alg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adk03\\Downloads\\семестровка\\alg\\alg\\alg.csproj",
+        "projectUniqueName": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\alg.csproj",
         "projectName": "alg",
-        "projectPath": "C:\\Users\\adk03\\Downloads\\семестровка\\alg\\alg\\alg.csproj",
+        "projectPath": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\alg.csproj",
         "packagesPath": "C:\\Users\\adk03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adk03\\Downloads\\семестровка\\alg\\alg\\obj\\",
+        "outputPath": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

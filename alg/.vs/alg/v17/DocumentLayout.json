@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\",
+  "WorkspaceRootPath": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\pigeonholesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\analyze-pigeonholesort\\alg\\alg\\pigeonholesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\pigeonholesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\analyze-pigeonholesort\\alg\\alg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|c:\\users\\adk03\\downloads\\analyze-pigeonholesort\\alg\\alg\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51231B6B-F928-4C6D-8A4E-2915B2C8B8D8}|alg\\alg.csproj|solutionrelative:alg\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,39 +34,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InputGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\InputGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\InputGenerator.cs",
               "RelativeDocumentMoniker": "alg\\InputGenerator.cs",
-              "ToolTip": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\InputGenerator.cs",
+              "ToolTip": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\InputGenerator.cs",
               "RelativeToolTip": "alg\\InputGenerator.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T20:08:47.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T20:08:47.471Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PigeonholeSort.cs",
-              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\PigeonholeSort.cs",
+              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\PigeonholeSort.cs",
               "RelativeDocumentMoniker": "alg\\PigeonholeSort.cs",
-              "ToolTip": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\PigeonholeSort.cs",
+              "ToolTip": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\PigeonholeSort.cs",
               "RelativeToolTip": "alg\\PigeonholeSort.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T20:06:50.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\Program.cs",
               "RelativeDocumentMoniker": "alg\\Program.cs",
-              "ToolTip": "C:\\Users\\adk03\\Downloads\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\alg\\alg\\Program.cs",
+              "ToolTip": "C:\\Users\\adk03\\Downloads\\Analyze-PigeonHoleSort\\alg\\alg\\Program.cs",
               "RelativeToolTip": "alg\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T20:06:16.778Z",
               "EditorCaption": ""
